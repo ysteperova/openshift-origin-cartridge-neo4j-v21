@@ -11,7 +11,6 @@ Neo4j 2 version provides the following enhancements:
 * integrated browser as a fluid developer workbench;
 * cypher advancement (new clauses and functions, improved syntax)
 
-
 Follow the [link](http://ops-docs.jelastic.com/private-add-cartridge) in order to find out how to enable the current cartridge at Jelastic dashboard.
 
 ### What Jelastic cartridge is?
