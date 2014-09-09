@@ -8,7 +8,7 @@ Main Neo4j features includes improved reliability with full ACID transactions, h
 Neo4j 2 version provides the following enhancements:
 * Java 7 support (instead of Java 6)
 * marking nodes as members of a named group
-* integrated browser as a fluid developer workbench;
+* integrated browser as a fluid developer workbench
 * cypher advancement (new clauses and functions, improved syntax)
 
 Follow the [link](http://ops-docs.jelastic.com/private-add-cartridge) in order to find out how to enable the current cartridge at Jelastic dashboard.
