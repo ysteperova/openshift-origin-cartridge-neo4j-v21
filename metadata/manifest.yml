@@ -8,6 +8,7 @@ License-Url:
 Vendor: Shekhar Gulati
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: neo4j
+Cartridge-Subdomain : neo4j
 Source-Url: https://github.com/jelastic-public-cartridges/openshift-origin-cartridge-neo4j-v21.git
 Categories:
   - service
